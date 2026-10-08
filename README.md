@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jalaj Gupta</h1>
-<h3 align="center">oftware Engineer with prior experience in backend engineering, SRE, and cloud infrastructure, building scalable and reliable production systems. Certified AWS Solutions Architect, proficient in Java, Python, Kubernetes, AWS, and automation, with proven impact in cutting latency by 90%, accelerating deployments by 60%, and reducing MTTR by 50%. Strong in system design, troubleshooting, and end-to-end ownership.</h3>
+<h3 align="center">Software Engineer with prior experience in backend engineering, SRE, and cloud infrastructure, building scalable and reliable production systems.Certified AWS Solutions Architect, proficient in Java, Python, Kubernetes, AWS, and automation, with proven impact in cutting latency by 90%, accelerating deployments by 60%, and reducing MTTR by 50%. Strong in system design, troubleshooting, and end-to-end ownership.</h3>
 
 - 📫 How to reach me **guptajalaj13@gmail.com**
 
